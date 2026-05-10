@@ -60,6 +60,8 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 
 ---
 
+---
+
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
@@ -72,8 +74,18 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
   </a>
 
   <a href="https://t.me/Mamad_h_o_s_e_i_n">
-    <img src="https://img.shields.io/badge/Telegram-@Mamad_h_o_s_e_i_n-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/wave-divider.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <i>Made with ❤️ by <b>Mohammad Hossein Gholami</b></i>
 </p>
 
 ---
