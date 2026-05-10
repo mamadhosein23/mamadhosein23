@@ -62,7 +62,7 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 
 # 🔥 GitHub Streak
 
-![snake gif](https://github.com/mamadhosein23/mamadhosein23/blob/output/snake.svg)
+<img src="https://streak-stats.demolab.com?user=mamadhosein23&theme=tokyonight"/>
 
 
 ---
@@ -75,7 +75,7 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/mamadhosein23/mamadhosein23/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/mamadhosein23/mamadhosein23/blob/output/snake.svg)
 
 ---
 
