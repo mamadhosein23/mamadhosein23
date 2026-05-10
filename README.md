@@ -63,3 +63,13 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mhghm23@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mamadhosein23)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Mamad_h_o_s_e_i_n-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mamad_h_o_s_e_i_n)
+
+ ---
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/wave-divider.svg" alt="Wave Divider" width="100%"/>
+    </p>
+    ---
+
+
