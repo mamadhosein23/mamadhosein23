@@ -11,6 +11,7 @@ Passionate about building web applications, solving problems and continuously im
 
 🎓 **Mining Engineering Student – Isfahan University of Technology**  
 🏆 **Top Rank in Iranian University Entrance Exam**  
+
 📜 **Harvard CS50 Certificates**  
 - CS50x  
 - CS50 Python  
