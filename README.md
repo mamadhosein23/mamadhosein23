@@ -81,17 +81,7 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/wave-divider.svg" width="100%"/>
-</p>
-
-<p align="center">
   <i>Made with ❤️ by <b>Mohammad Hossein Gholami</b></i>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/wave-divider.svg" width="100%"/>
-</p>
-?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mamad_h_o_s_e_i_n)
-
