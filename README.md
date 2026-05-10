@@ -54,7 +54,15 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 
 # 📊 GitHub Stats
 
-![Mohammad Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamadhosein23&show_icons=true&theme=tokyonight)
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamadhosein23&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&cache_seconds=1800" alt="Mohammad Hossein's GitHub stats" />
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mamadhosein23&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
 ---
 
