@@ -36,6 +36,7 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 ### 🚀 Tech Stack
 ![JS](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,postgres,mongodb,git,github,vscode)
 
+---
 
 
 # 🔥 GitHub Streak
