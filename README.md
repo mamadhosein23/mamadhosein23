@@ -33,24 +33,13 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** HTML, CSS, React, Next.js  
+**Backend:** Node.js, Express  
+**Database:** PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, VS Code
 
-### Languages
-![JavaScript](https://skillicons.dev/icons?i=js,ts,python)
-
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs)
-
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-### Database
-![Database](https://skillicons.dev/icons?i=mongodb,postgres)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-
----
 
 # 🔥 GitHub Streak
 
