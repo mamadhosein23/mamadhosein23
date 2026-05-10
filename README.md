@@ -58,18 +58,28 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 
 ---
 
-# 🤝 Connect With Me
+---
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23mhghm23@gmail.com)
+<h2 align="center">🤝 Connect With Me</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mamadhosein23)
+<p align="center">
+  <a href="mailto:23mhghm23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Mamad_h_o_s_e_i_n-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mamad_h_o_s_e_i_n)
+  <a href="https://github.com/mamadhosein23">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
- ---
-  <p align="center">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/wave-divider.svg" alt="Wave Divider" width="100%"/>
-    </p>
-    ---
+  <a href="https://t.me/Mamad_h_o_s_e_i_n">
+    <img src="https://img.shields.io/badge/Telegram-@Mamad_h_o_s_e_i_n-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/wave-divider.svg" width="100%"/>
+</p>
+?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mamad_h_o_s_e_i_n)
 
