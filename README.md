@@ -12,7 +12,7 @@ Full Stack Developer | Mining Engineering Student
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About M
 
 🎓 Mining Engineering Student — Isfahan University of Technology  
 
