@@ -46,11 +46,6 @@ Programming • Behavioral Science • Volleyball • Cooking • Books • Self
 
 ---
 
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mamadhosein23&theme=tokyo-night"/>
-
----
 
 # 🐍 Contribution Snake
 
