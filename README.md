@@ -1,71 +1,156 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=180&color=0d1117&text=MohammadHossein%20Gholami&fontSize=50&fontColor=f0f6fc&animation=fadeIn" alt="Header" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  Full-Stack Developer | Mining Engineering Student @ IUT
-</h3>
+# MohammadHossein Gholami
 
-<p align="center">
-  <a href="https://github.com/mamadhosein23">
-    <img src="https://komarev.com/ghpvc/?username=mamadhosein23&color=2188ff&style=flat-square" alt="Visitor Count" />
-  </a>
-</p>
+### Web Developer · Backend Developer · Mining Engineering Student
 
----
-
-### 👨‍💻 About Me
-
-*   🎓 **Education:** Mining Engineering Student at **Isfahan University of Technology** (Top Rank in National Entrance Exam)
-*   🧠 **Personality Type:** INTJ-A
-*   📜 **Certifications:** Harvard CS50 Suite (CS50x, CS50P, CS50W)
-*   🎯 **Current Focus:** Deep Learning, Web Optimization & Backend APIs (FastAPI)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs" width="48" height="48" alt="Frontend" />
-      <br /><sub><b>Frontend</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb" width="48" height="48" alt="Backend" />
-      <br /><sub><b>Backend / DB</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode" width="48" height="48" alt="Tools" />
-      <br /><sub><b>Tools & CMS</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/mamadhosein23/mamadhosein23/output/snake.svg" alt="GitHub Snake" width="100%" />
-</p>
-
----
-
-### 🤝 Get in Touch
-
-<p align="left">
+<p>
   <a href="mailto:23mhghm23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/mamadhosein23">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://t.me/Mamad_h_o_s_e_i_n">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-111827?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
-<p align="center">
-  <i>Built with care by Mohammad Hossein Gholami</i>
-</p>
+<img src="https://komarev.com/ghpvc/?username=mamadhosein23&color=b87333&style=flat-square" alt="Profile views">
+
+</div>
+
+---
+
+## About Me
+
+I am a web developer and backend developer with a background in Mining Engineering.
+
+My work focuses on building practical web solutions, backend APIs, WordPress websites, and technically optimized digital products.
+
+I approach software development with an engineering mindset:
+
+- Understand the structure of the problem
+- Design a clear and maintainable solution
+- Build reliable functionality
+- Measure, optimize, and document the result
+
+Currently, I am working on web development, backend APIs, technical SEO, and learning machine learning with the goal of pursuing graduate studies in Artificial Intelligence.
+
+---
+
+## Engineering Background
+
+- Mining Engineering Student at Isfahan University of Technology
+- Top Rank in the Iranian University Entrance Exam
+- Interested in the intersection of engineering, software, data, and intelligent systems
+- INTJ personality type
+
+---
+
+## What I Do
+
+### Web Development
+
+- Responsive websites with HTML and CSS
+- Interactive interfaces with JavaScript
+- React-based frontend development
+- WordPress website development and customization
+- Website performance and technical optimization
+
+### Backend Development
+
+- RESTful API development with FastAPI
+- Python-based backend development
+- API architecture and endpoint design
+- Database-oriented application development
+- Backend tools for web platforms and SEO workflows
+
+### WordPress & SEO
+
+- WordPress development
+- Elementor Pro
+- Porto
+- GeneratePress
+- Technical SEO
+- Content SEO
+- Google Search Console
+- Google Trends
+- Website performance optimization
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Languages">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend technologies">
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb" alt="Backend and databases">
+
+### CMS, Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode" alt="Tools and workflow">
+
+</div>
+
+---
+
+## Current Focus
+```text
+Backend APIs             FastAPI and Python
+Web Development          React, JavaScript and WordPress
+SEO Engineering          Technical SEO and website optimization
+Data Visualization       Recharts and dashboard interfaces
+Selected Work
+Tamir Online Isfahan
+A website for home appliance repair services, focused on:
+
+WordPress development
+Technical SEO
+Content structure
+Search visibility
+User experience and conversion-oriented pages
+Visit tamironlineesfahan.ir
+
+WP SEO Inspector
+A backend API project for inspecting and analyzing SEO-related data in WordPress websites.
+
+Current focus:
+
+FastAPI
+Python
+WordPress integration
+SEO analysis workflows
+Structured API responses
+Certificates
+Harvard CS50x
+Harvard CS50P
+Harvard CS50W
+Development Principles
+Prefer clear architecture over unnecessary complexity
+Write code that can be maintained by another developer
+Treat performance and accessibility as core requirements
+Use documentation as part of the development process
+Improve systems through measurement, not assumptions
+Contribution Snake
+<div align=“center”>
+
+<img src=“https://raw.githubusercontent.com/mamadhosein23/mamadhosein23/output/snake.svg” alt=“GitHub contribution snake”>
+
+</div>
+
+<div align=“center”>
+
+Built with structure, curiosity, and engineering discipline.
+</div>
+Machine Learning         Currently learning
+Prompt Engineering       Practical use in development and research
