@@ -72,17 +72,16 @@ Currently, I am working on web development, backend APIs, technical SEO, and lea
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" alt="Languages">
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs" alt="Frontend technologies">
-
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb" alt="Backend and databases">
-
-### CMS, Tools & Workflow
-<img src="https://skillicons.dev/icons?i=wordpress,git,github,vscode" alt="Tools and workflow">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
@@ -127,12 +126,7 @@ A backend API project for inspecting and analyzing SEO-related data in WordPress
 
 ---
 
-<div align="center">
 
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/mamadhosein23/mamadhosein23/output/snake.svg" alt="GitHub contribution snake">
-
----
 
 *Built with structure, curiosity, and engineering discipline.*
 
