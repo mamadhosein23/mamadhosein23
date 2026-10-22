@@ -41,7 +41,7 @@ My approach is straightforward: understand the problem, design a clear solution,
 
 <table>
 <tr>
-<td width="32%"><b><a href="https://tamironlineesfahan.ir">TamirOnlineIsfahan ↗</a></b></td>
+<td width="32%"><b><a href="https://tamironlineesfahan.ir">Tamir Online Isfahan ↗</a></b></td>
 <td>
 A home appliance repair service website, with work spanning WordPress development, technical SEO, content structure, search visibility, and user experience.
 <br/><br/>
@@ -49,7 +49,7 @@ A home appliance repair service website, with work spanning WordPress developmen
 </td>
 </tr>
 <tr>
-<td width="32%"><b><a href="https://bonyanservice.com/">BonyanService ↗</a></b></td>
+<td width="32%"><b><a href="https://bonyanservice.com/">Bonyan Service ↗</a></b></td>
 <td>
 A local home appliance repair website for customers in Isfahan, presenting repair services, service coverage, and contact options for arranging on-site repairs.
 <br/><br/>
